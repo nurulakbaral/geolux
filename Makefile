@@ -1,2 +1,2 @@
-run-api:
-	cargo run --package api
+run-geo-api:
+	cargo run --package geo_api
